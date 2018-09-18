@@ -1,4 +1,4 @@
 # Bluetooth Controlled Light
 Arduino Bluetooth Controlled Light
-![On Light](http://url/to/img.png)
-![Off Light](http://url/to/img.png)
+![On Light](on bulb.jpg)
+![Off Light](off bulb.jpg)
